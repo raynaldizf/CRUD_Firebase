@@ -49,5 +49,9 @@ class UpdateFragment : Fragment() {
                 Toast.makeText(requireContext(), "Data Gagal Diupdate", Toast.LENGTH_SHORT).show()
             }
         }
+
+        binding.btnBack.setOnClickListener{
+            findNavController().navigateUp()
+        }
     }
 }
