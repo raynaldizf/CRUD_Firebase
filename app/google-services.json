@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926084819458",
+    "firebase_url": "https://pertemuansebelas-33015-default-rtdb.firebaseio.com",
+    "project_id": "pertemuansebelas-33015",
+    "storage_bucket": "pertemuansebelas-33015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926084819458:android:c75a36b45315051457551b",
+        "android_client_info": {
+          "package_name": "com.app.pertemuansebelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926084819458-g0m5a8mkgrufdllqul4nsll4kdv4dqm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv84pwzp45iAXILSi1ujpDzA7DIpatmjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926084819458-g0m5a8mkgrufdllqul4nsll4kdv4dqm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
